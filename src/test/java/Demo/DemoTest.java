@@ -10,4 +10,9 @@ public class DemoTest {
 		System.out.println("add");
 	}
 
+	public void subTest()
+	{
+		System.out.println("sub");
+	}
+
 }
